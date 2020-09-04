@@ -1,3 +1,5 @@
 # vegetables
-This are my favorite vegetables
-My favorite vegetable is broccoli
+These are my favorite vegetables:
+Broccoli
+Carrots
+Potatoes
